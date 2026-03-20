@@ -26,4 +26,4 @@ Plateforme de récompenses publicitaires - Gagnez de l'argent en regardant des p
 
 1. Clonez le dépôt
 ```bash
-git clone https://github.com/TON_PSEUDO/pub-watching-platform.git
+[git clone https://github.com/Gbilimou22/plateform-pub-224.git]
