@@ -1,0 +1,43 @@
+# .gitignore
+# Fichiers sensibles
+config/database.php
+config/payment_api.php
+config/wave_config.php
+config/youtube.php
+
+# Logs
+logs/
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Dossiers de cache
+.cache/
+temp/
+
+# Fichiers de test temporaires
+install_admin.php
+create_admin.php
+test_*.php
+
+# Dossiers d'upload
+uploads/
+thumbnails/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Composer (si tu utilises)
+vendor/
+composer.lock
+
+# Node modules (si tu utilises)
+node_modules/
+package-lock.json
